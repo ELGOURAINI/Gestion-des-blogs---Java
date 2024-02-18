@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/oumai/Music/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oumai/OneDrive/Documents/Study/EMG_Ginfo/S1/POO/Projet/Jars/TimingFramework-0.55.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oumai/OneDrive/Documents/Study/EMG_Ginfo/S1/POO/Projet/Jars/miglayout-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oumai/OneDrive/Documents/Study/EMG_Ginfo/S1/POO/Projet/Jars/flatlaf-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oumai/OneDrive/Documents/Study/EMG_Ginfo/S1/POO/Projet/Jars/flatlaf-extras-2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
